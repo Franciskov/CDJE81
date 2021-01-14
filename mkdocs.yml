@@ -1,0 +1,15 @@
+site_name: CDJE81
+pages:
+    - Home: index.md
+    - Actualités CDJE: ActualiteCDJE.md
+    - Albi: Albi.md
+    - Blaye: Blaye.md
+    - Castres: Castres.md
+    - Gaillac: Gaillac.md
+    - Lavaur: Lavaur.md
+    - Mazamet: Mazamet.md
+    - Réalmont: Réalmont.md
+    - StSulpice: StSulpice.md
+    - About: about.md
+
+theme: readthedocs
