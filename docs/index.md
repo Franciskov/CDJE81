@@ -9,14 +9,14 @@ Ce site (simplifié) permet d'échanger de la documentation et des informations 
 
 ## Les Clubs du Tarn
 	
-<p>	<a href="../Albi/index.html">ALBI</a><br>
-	<a href="../Blaye/index.html">BLAYE</a><br>
-	<a href="../Castres/index.html">CASTRES</a><br>
-	<a href="../Gaillac/index.html">GAILLAC</a><br>
-	<a href="../Lavaur/index.html">LAVAUR</a><br>
-	<a href="../Mazamet/index.html">MAZAMET</a><br>
-	<a href="../Réalmont/index.html">REALMONT</a><br>
-	<a href="../StSulpice/index.html">St SULPICE</a><br>
+<p>	<b>Albi</b><br>
+	<b>Blaye-les-mines</b><br>
+	<b>Castres</b><br>
+	<b>Gaillac</b><br>
+	<b>Lavaur</b><br>
+	<b>Mazamet</b><br>
+	<b>Réalmont</b><br>
+	<b>St Sulpice</b><br>
 </p>
 
 Une page dédiée à chaque club est présente sur le site. 
