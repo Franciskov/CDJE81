@@ -14,6 +14,13 @@ Un nonagénaire en pleine forme...
 
 
 # Actualité de CASTRES
+
+<b><u>18/01/2021</b></u><br>
+Un article de presse sur le club et la pratique des échecs en ligne a été diffusé samedi dernier dans le journal la dépêche.<br>
+Pour télécharger l'article, c'est <a href="../ArticlePresse_16_01-2021.pdf">ICI</a>
+
+
+<b><u>12/01/2021</b></u><br>
 A compter du mercredi 20 janvier les cours d'échecs jeunes de l'échiquier castrais seront accessibles pour les jeunes des autres clubs du département qui le souhaitent.
 
 
