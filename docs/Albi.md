@@ -18,14 +18,14 @@ POUR NOUS CONTACTER
 Téléphone: 06 79 92 96 96 (Patrice Vincens)
 Mail : philippe.fabre@echecs-occitanie.com
 
-## Infos du club
+# Infos du club
 
 <a href="http://albiechecs.fr/">Site internet du club</a>
 
 <a href="http://www.echecs.asso.fr/FicheClub.aspx?Ref=1224">Et sur le site FFE</a>
 
 
-### Actualité d'ALBI
+# Actualité d'ALBI
 
 <b><u>18/01/2021</b></u><br>
 Suite à la crise sanitaire actuelle, les salles de jeu de l'Echiquier Club Albigeois demeurent fermées jusqu'à nouvel ordre.
