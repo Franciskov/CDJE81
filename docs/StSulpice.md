@@ -9,12 +9,10 @@ Pour la compétition ou seulement le plaisir, pour apprendre, progresser ou just
 
 # Infos du club
 
-OUVERTURE HEBDOMADAIRE DU CLUB
-
-Mardi : de 17h30 à 20h00. Tous publics
-
-Vendredi : 	de 17h00 à 18h15 à Session «Jeunes et débutants»
-		de 18h30 à 20h00 à Session joueurs confirmés.
+OUVERTURE HEBDOMADAIRE DU CLUB<br>
+Mardi	 : de 17h30 à 20h00 Tous publics<br>
+Vendredi : de 17h00 à 18h15 «Jeunes et débutants»<br>
+Vendredi : de 18h30 à 20h00 «Joueurs confirmés»<br>
 
 Les entraînements se déroulent dans la salle du CITEL, 416 rue du Capitaine Beaumont, 81370 Saint-Sulpice-la-pointe
 
