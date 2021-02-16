@@ -187,7 +187,7 @@
         },
         {
             "location": "/about/",
-            "text": "A propos de ce site\n\n\nCe site a \u00e9t\u00e9 initialis\u00e9 par Francis BRUGEL (alias Franciskov)\n\nN'h\u00e9sitez pas \u00e0 le contacter si besoin \nf.brugel@free.fr\n\n\nVersion actuelle\n\n\nV1.1\n\nMAJ du : 16/02/2021",
+            "text": "A propos de ce site\n\n\nCe site a \u00e9t\u00e9 initialis\u00e9 par Francis BRUGEL (alias Franciskov)\n\nN'h\u00e9sitez pas \u00e0 le contacter si besoin \nf.brugel@free.fr\n\n\nVersion actuelle\n\n\nV1.1\n\nMise \u00e0 Jour du : 16/02/2021",
             "title": "About"
         },
         {
@@ -197,7 +197,7 @@
         },
         {
             "location": "/about/#version-actuelle",
-            "text": "V1.1 \nMAJ du : 16/02/2021",
+            "text": "V1.1 \nMise \u00e0 Jour du : 16/02/2021",
             "title": "Version actuelle"
         }
     ]
