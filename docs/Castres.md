@@ -1,20 +1,22 @@
 # Echiquier Castrais
-<img src="../MiniLogoEchiquierCastrais.png" alt="" />
-
+<img src="../MiniLogoEchiquierCastrais.png" alt="" /><br>
 Fondé en 1931, ce club fête cette année ses 90 ans !
 Un nonagénaire en pleine forme...
 # Infos du club
 <a href="https://fr-fr.facebook.com/echiquier.castrais/">Page Facebook du club</a><br>
-<a href="http://www.echecs.asso.fr/FicheClub.aspx?Ref=1233">Et sur le site FFE</a>
+<a href="http://www.echecs.asso.fr/FicheClub.aspx?Ref=1233">Et sur le site FFE</a><br>
 
 <!--
     ceci est un commentaire non affiché !
 -->
-
-
 # Actualité de CASTRES
+<b><u>16/02/2021</b></u><br>
+Dans le cadre des stages OMEPS qui se déroulent pendant les vacances scolaires de février et de printemps, l'échiquier Castrais est intervenu ce mardi 16 février après-midi pour initier des jeunes à notre jeu d'échecs. Cette intervention s'est déroulée en extérieur dans le parc de Gourgade et sous le soleil !<br>
+Un grand MERCI à <b>Sabine, Marie-France, Mattéo et Mathieu</b> qui ont encadré les jeunes pousses !<br> 
+<img src="../OmepsFev2021.jpg" alt="" />
+
 <b><u>20/01/2021</b></u><br>
-En raison de la pandémie nous ne pouvons avoir accès à la salle Lousa Paulin pour nos entrainements.
+En raison de la pandémie nous ne pouvons avoir accès à la salle Louisa Paulin pour nos entrainements.
 Les cours continueront donc à se faire en ligne.<br>
 Pour info : <a href="http://www.echecs.asso.fr/Actu.aspx?Ref=12132"><b>MASTERCLASS FFE</b> vendredi 22 janvier à 19h00</a>
 

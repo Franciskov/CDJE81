@@ -1,10 +1,7 @@
 # Bienvenue sur le site simplifié du CDJE81
+<img src="../LogoCDJE.JPG" alt="" /><br>
 
-Le Comité Départemental du Jeu d'Echecs du Tarn vous souhaite une très bonne année 2021 !
-
-Les échecs...<b>NOTRE PASSION !</b>
-
-Ce site (simplifié) permet d'échanger de la documentation et des informations sur la vie du CDJE et des clubs qui le composent 
+Les échecs...<b><u>NOTRE PASSION !</u></b>
 
 
 ## Les Clubs du Tarn
