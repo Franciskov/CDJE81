@@ -1,5 +1,6 @@
 # Bienvenue sur le site simplifié du CDJE81
-<img src="../LogoCDJE.JPG" alt="" /><br>
+
+<img src="../LogoCDJE.jpg" alt="" /><br>
 
 Les échecs...<b><u>NOTRE PASSION !</u></b>
 
