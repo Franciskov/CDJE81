@@ -107,22 +107,22 @@
         },
         {
             "location": "/Lavaur/",
-            "text": "MJC Lavaur\n\n\nMettre ici une description br\u00e8ve du club...\n\n\nInfos du club\n\n\nSur le site FFE\n\n\nActualit\u00e9 de LAVAUR\n\n\nMettre ici les derni\u00e8res infos du club...",
+            "text": "Clud d'\u00e9checs de la MJC de Lavaur\n\n\n\n\nLes sc\u00e9ances d'\u00e9checs ont lieu tous les samedis (hors vacances scolaires) de 10h00 \u00e0 12h00 \u00e0 la MJC de Lavaur, au 12 rue Peyras.\n\n\nPour nous contacter : lavaurechecs@free.fr\n\n\nInfos du club\n\n\nInfos du club sur le site FFE\n\n\nActualit\u00e9 de LAVAUR\n\n\nEn cons\u00e9quence de la crise sanitaire actuelle, les sc\u00e9ances d'\u00e9checs \u00e0 la MJC sont suspendues jusqu'\u00e0 nouvel ordre. En esp\u00e9rant vous retrouver tr\u00e8s prochainement d\u00e8s que les conditions pour jouer seront \u00e0 nouveau r\u00e9unies.",
             "title": "Lavaur"
         },
         {
-            "location": "/Lavaur/#mjc-lavaur",
-            "text": "Mettre ici une description br\u00e8ve du club...",
-            "title": "MJC Lavaur"
+            "location": "/Lavaur/#clud-dechecs-de-la-mjc-de-lavaur",
+            "text": "Les sc\u00e9ances d'\u00e9checs ont lieu tous les samedis (hors vacances scolaires) de 10h00 \u00e0 12h00 \u00e0 la MJC de Lavaur, au 12 rue Peyras.  Pour nous contacter : lavaurechecs@free.fr",
+            "title": "Clud d'\u00e9checs de la MJC de Lavaur"
         },
         {
             "location": "/Lavaur/#infos-du-club",
-            "text": "Sur le site FFE",
+            "text": "Infos du club sur le site FFE",
             "title": "Infos du club"
         },
         {
             "location": "/Lavaur/#actualite-de-lavaur",
-            "text": "Mettre ici les derni\u00e8res infos du club...",
+            "text": "En cons\u00e9quence de la crise sanitaire actuelle, les sc\u00e9ances d'\u00e9checs \u00e0 la MJC sont suspendues jusqu'\u00e0 nouvel ordre. En esp\u00e9rant vous retrouver tr\u00e8s prochainement d\u00e8s que les conditions pour jouer seront \u00e0 nouveau r\u00e9unies.",
             "title": "Actualit\u00e9 de LAVAUR"
         },
         {
