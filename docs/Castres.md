@@ -10,6 +10,14 @@ Un nonagénaire en pleine forme...
     ceci est un commentaire non affiché !
 -->
 # Actualité de CASTRES
+<b><u>09/03/2021</b></u><br>
+<b>Léa sur les traces de son Papa...Et de son frère !</b><br>
+Eric CASSAM-CHENAI, joueur du club, peut être fier de sa fille Léa qui vient de remporter le titre de championne en départemental chez les petites poussines...
+Et cela s'est passé dans le département 93 (Seine St Denis). En effet, Léa, comme son frère Antoine, est licenciée dans le club du Tremblay-En-France (93).
+Dans ce département, le championnat a pu se dérouler en présentiel, au Blanc Mesnil les 6 et 7 Mars dernier.
+<b>Bravo Léa !</b><br>
+<img src="../TremblayEnFrance.jpg" alt="" /><br>
+
 <b><u>16/02/2021</b></u><br>
 Dans le cadre des stages OMEPS qui se déroulent pendant les vacances scolaires de février et de printemps, l'échiquier Castrais est intervenu ce mardi 16 février après-midi pour initier des jeunes à notre jeu d'échecs. Cette intervention s'est déroulée en extérieur dans le parc de Gourgade et sous le soleil !<br>
 Un grand MERCI à <b>Sabine, Marie-France, Mattéo et Mathieu</b> qui ont encadré les jeunes pousses !<br> 
