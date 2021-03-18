@@ -6,6 +6,6 @@ N'hésitez pas à le contacter si besoin <a href="mailto:f.brugel@free.fr">f.bru
 
 ## Version actuelle
 
-V1.1<br>
-Mise à Jour du : 16/02/2021
+V1.2<br>
+Mise à Jour du : 16/03/2021
 
